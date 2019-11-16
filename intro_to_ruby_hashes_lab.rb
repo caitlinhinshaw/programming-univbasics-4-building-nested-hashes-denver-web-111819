@@ -24,10 +24,10 @@ def monopoly_with_third_tier
     {railroads: {
       pieces: 4,
       rent_in_dollars: {
-        own_one: 25,
-        own_two: 50,
-        own_three: 100,
-        own_four: 200
+        one_piece_owned: 25,
+        two_pieces_owned: 50,
+        three_pieces_owned: 100,
+        four_pieces_owned: 200
       },
       names: {
         reading_railroad: {},
