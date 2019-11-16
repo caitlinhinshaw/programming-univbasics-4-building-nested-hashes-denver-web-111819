@@ -28,7 +28,9 @@ def monopoly_with_third_tier
         own_two: 50,
         own_three: 100,
         own_four: 200
-        }}
+        }
+      names:{}
+      }
     }
 end
 
