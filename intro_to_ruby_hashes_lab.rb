@@ -27,8 +27,14 @@ def monopoly_with_third_tier
         own_one: 25,
         own_two: 50,
         own_three: 100,
-        own_four: 200},
-      names:{}
+        own_four: 200
+      },
+      names: {
+        reading_railroad: {},
+        b_and_o_railroad: {},
+        pennsylvania_railroad: {},
+        shortline: {}
+        }
       }
     }
 end
